@@ -21,7 +21,7 @@ The content for each lab will be distributed via github classroom.
 So, to do the lab of this course, you need:
 1. You'll need to log into https://escalab.org/datahub to run a jupyter notebook. 
 2. Tha asssignment from github classroom.  Find the link on the course 
-home page: https://www.escalab.org/classes/cse142l-2024su and https://www.escalab.org/classes/cse142l-2024su/
+home page: https://www.escalab.org/classes/cse142-2024su and https://www.escalab.org/classes/cse142l-2024su/
 
 ## Connecting to cse142/cse142l jupyterhub 
 
@@ -106,6 +106,6 @@ https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-
 
 ## Open the Notebook
 
-Switch to the tab with file browser and navigate to the directory you just cloned.   Click on `Lab.ipynb` to open the lab and get to work!
+Switch to the tab with file browser and navigate to the directory you just cloned.   Click on `assignment-lab.ipynb` to open the lab and get to work!
 
 **Note:** You'll need to trust the notebook when Jupyter asks.
